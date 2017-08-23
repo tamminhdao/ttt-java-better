@@ -10,28 +10,6 @@ Game written in Java
 
 * Apache Maven 3.5.0
 
-
-### Installation
-
-Clone the git repository
-```
-$ git clone https://github.com/tamminhdao/coding_challenges.git
-```
-Navigate into the root directory
-```
-$ cd coding_challenges
-```
-
-Checkout the `code_submission` branch
-```
-git checkout code_submission
-```
-
-Navigate into `java/tictactoe` directory
-```
-$ cd java/tictactoe
-```
-
 ### Create jar file
 ```
 mvn package
